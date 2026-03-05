@@ -22,7 +22,7 @@
     "title": "Payment Processing Error",
     "description": "The payment gateway throws an error when trying to make a payment.",
     "customer": "Bob Lee",
-    "priority": "Critical",
+    "priority": "Low",
     "status": "Open",
     "createdAt": "2026-03-03T14:20:00Z"
   },
@@ -67,7 +67,7 @@
     "title": "API Timeout Error",
     "description": "API call times out after 30 seconds of waiting.",
     "customer": "Lilly King",
-    "priority": "Critical",
+    "priority": "High",
     "status": "Open",
     "createdAt": "2026-03-03T15:25:00Z"
   },
@@ -94,7 +94,7 @@
     "title": "Database Connection Failure",
     "description": "The app is unable to connect to the database, resulting in failed operations.",
     "customer": "Henry Lee",
-    "priority": "Critical",
+    "priority": "High",
     "status": "Open",
     "createdAt": "2026-03-02T09:50:00Z"
   },
@@ -130,7 +130,7 @@
     "title": "Internal Server Error",
     "description": "500 internal server error when trying to access the settings page.",
     "customer": "Jack Wilson",
-    "priority": "Critical",
+    "priority": "Low",
     "status": "Open",
     "createdAt": "2026-03-03T18:05:00Z"
   }
