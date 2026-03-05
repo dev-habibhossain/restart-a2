@@ -1,0 +1,137 @@
+[
+  {
+    "id": 1,
+    "title": "Login Issue",
+    "description": "User unable to log into the system after multiple attempts.",
+    "customer": "John Doe",
+    "priority": "High",
+    "status": "Open",
+    "createdAt": "2026-03-01T12:30:00Z"
+  },
+  {
+    "id": 2,
+    "title": "Page not loading",
+    "description": "The dashboard page is not loading properly, stuck on a blank screen.",
+    "customer": "Alice Smith",
+    "priority": "Medium",
+    "status": "In Progress",
+    "createdAt": "2026-03-02T08:45:00Z"
+  },
+  {
+    "id": 3,
+    "title": "Payment Processing Error",
+    "description": "The payment gateway throws an error when trying to make a payment.",
+    "customer": "Bob Lee",
+    "priority": "Critical",
+    "status": "Open",
+    "createdAt": "2026-03-03T14:20:00Z"
+  },
+  {
+    "id": 4,
+    "title": "Password Reset Request",
+    "description": "User requests a password reset link but does not receive it.",
+    "customer": "Sara Adams",
+    "priority": "Low",
+    "status": "Resolved",
+    "createdAt": "2026-03-01T09:00:00Z"
+  },
+  {
+    "id": 5,
+    "title": "System Crash",
+    "description": "Application crashes unexpectedly when saving data.",
+    "customer": "David Ross",
+    "priority": "High",
+    "status": "In Progress",
+    "createdAt": "2026-03-04T11:10:00Z"
+  },
+  {
+    "id": 6,
+    "title": "Incorrect Data Displayed",
+    "description": "The user profile shows incorrect contact information.",
+    "customer": "Emma White",
+    "priority": "Medium",
+    "status": "Open",
+    "createdAt": "2026-03-05T10:00:00Z"
+  },
+  {
+    "id": 7,
+    "title": "Email Notifications Not Sending",
+    "description": "Users are not receiving any notification emails when a task is assigned.",
+    "customer": "Mike Johnson",
+    "priority": "High",
+    "status": "In Progress",
+    "createdAt": "2026-02-28T16:30:00Z"
+  },
+  {
+    "id": 8,
+    "title": "API Timeout Error",
+    "description": "API call times out after 30 seconds of waiting.",
+    "customer": "Lilly King",
+    "priority": "Critical",
+    "status": "Open",
+    "createdAt": "2026-03-03T15:25:00Z"
+  },
+  {
+    "id": 9,
+    "title": "Feature Request: Dark Mode",
+    "description": "Customer requests the addition of a dark mode feature to the interface.",
+    "customer": "Chris Baker",
+    "priority": "Low",
+    "status": "Closed",
+    "createdAt": "2026-02-27T12:15:00Z"
+  },
+  {
+    "id": 10,
+    "title": "Slow Performance",
+    "description": "The app takes too long to load, especially on mobile.",
+    "customer": "Rachel Green",
+    "priority": "Medium",
+    "status": "In Progress",
+    "createdAt": "2026-03-01T07:40:00Z"
+  },
+  {
+    "id": 11,
+    "title": "Database Connection Failure",
+    "description": "The app is unable to connect to the database, resulting in failed operations.",
+    "customer": "Henry Lee",
+    "priority": "Critical",
+    "status": "Open",
+    "createdAt": "2026-03-02T09:50:00Z"
+  },
+  {
+    "id": 12,
+    "title": "User Account Locked",
+    "description": "User account was locked after multiple failed login attempts.",
+    "customer": "Julia Harris",
+    "priority": "Medium",
+    "status": "Resolved",
+    "createdAt": "2026-03-01T13:10:00Z"
+  },
+  {
+    "id": 13,
+    "title": "App Notifications Bug",
+    "description": "Push notifications are not being delivered to users even though they are enabled.",
+    "customer": "George Taylor",
+    "priority": "Low",
+    "status": "Open",
+    "createdAt": "2026-03-03T17:25:00Z"
+  },
+  {
+    "id": 14,
+    "title": "File Upload Error",
+    "description": "Users cannot upload files over 10MB due to a server-side error.",
+    "customer": "Olivia Martinez",
+    "priority": "High",
+    "status": "In Progress",
+    "createdAt": "2026-03-05T13:00:00Z"
+  },
+  {
+    "id": 15,
+    "title": "Internal Server Error",
+    "description": "500 internal server error when trying to access the settings page.",
+    "customer": "Jack Wilson",
+    "priority": "Critical",
+    "status": "Open",
+    "createdAt": "2026-03-03T18:05:00Z"
+  }
+]
