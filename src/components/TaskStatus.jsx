@@ -3,7 +3,6 @@ export default function TaskStatus({ selectedTicket, onResolve, stats, resolvedT
     <div className="p-4 bg-gray-50 rounded-lg border border-gray-200 sticky top-4 flex flex-col gap-4">
       <h2 className="text-xl font-bold text-gray-800">Status Overview</h2>
       
-      {/* 1. Stats Section */}
       <div className="flex gap-4">
         <div className="bg-white p-3 rounded shadow-sm flex-1 text-center border-b-2 border-amber-400">
           <p className="text-xs text-gray-500 uppercase">In Progress</p>
@@ -15,7 +14,7 @@ export default function TaskStatus({ selectedTicket, onResolve, stats, resolvedT
         </div>
       </div>
 
-      {/* 2. Active Detail Card (The one you just clicked) */}
+     
       <div className="min-h-[200px]">
         {selectedTicket ? (
           <div className="bg-white p-4 rounded-xl shadow-md border-l-4 border-blue-500 h-full flex flex-col justify-between">
@@ -44,7 +43,6 @@ export default function TaskStatus({ selectedTicket, onResolve, stats, resolvedT
 
       <hr className="border-gray-200" />
 
-      {/* 3. Resolved List (Compact section) */}
       <div>
         <h4 className="text-xs font-bold text-gray-400 uppercase mb-2">Resolved History</h4>
         <div className="max-h-40 overflow-y-auto space-y-1 pr-1">
